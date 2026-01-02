@@ -1,2 +1,2 @@
-# Notes-provider
-Notes provider application for student to provide study material
+# ATM Simulation
+this is a atm simulation its provide atm vibe
